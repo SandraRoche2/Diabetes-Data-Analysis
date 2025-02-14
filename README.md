@@ -1,2 +1,2 @@
 # Diabetes-Data-Analysis
-Dataset from kaggle wek site (Dec 2023)
+Dataset from kaggle web site (Dec 2023)
